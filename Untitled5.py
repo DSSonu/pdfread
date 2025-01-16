@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[2]:
-
-
 import streamlit as st
 from wordcloud import WordCloud
 import matplotlib.pyplot as plt
@@ -63,10 +57,6 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-
-# In[ ]:
-
 
 
 
