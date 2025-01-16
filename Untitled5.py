@@ -1,5 +1,5 @@
 import streamlit as st
-from wordcloud import WordCloud
+import WordCloud
 import matplotlib.pyplot as plt
 from PyPDF2 import PdfReader
 from nltk.corpus import stopwords
